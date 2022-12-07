@@ -1,0 +1,10 @@
+[{
+	  "relation": ["delegate_permission/common.handle_all_urls"],
+	    "target": {
+		        "namespace": "android_app",
+			    "package_name": "com.segurosbolivar.bolivarconmigo",
+			        "sha256_cert_fingerprints": [
+					      "F0:AA:C3:95:CD:8F:06:F0:AB:9D:0F:21:BF:59:94:12:B1:83:36:D8:53:57:22:7C:E1:B2:8B:16:09:5F:77:E6"
+					          ]
+						    }
+}]
