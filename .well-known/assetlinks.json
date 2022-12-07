@@ -1,10 +1,9 @@
 [{
-	  "relation": ["delegate_permission/common.handle_all_urls"],
-	    "target": {
-		        "namespace": "android_app",
-			    "package_name": "com.segurosbolivar.bolivarconmigo",
-			        "sha256_cert_fingerprints": [
-					      "F0:AA:C3:95:CD:8F:06:F0:AB:9D:0F:21:BF:59:94:12:B1:83:36:D8:53:57:22:7C:E1:B2:8B:16:09:5F:77:E6"
-					          ]
-						    }
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.segurosbolivar.bolivarconmigo",
+    "sha256_cert_fingerprints":
+    ["52:4E:40:EA:68:95:B6:6E:12:B8:0D:4C:0C:C7:D0:2B:5B:A7:7A:F5:10:98:C8:F5:0E:94:99:37:40:2C:76:A3"]
+  }
 }]
